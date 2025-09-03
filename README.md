@@ -5,8 +5,9 @@
 
 <!-- Animasi teks berjalan -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=Mahasiswi+yang+sedang+belajar+Pemrograman;Hobi+Hiking+dan+Jelajah+Alam;Fokus+belajar+Java%2C+SQL%2C+dan+Computer+Graphics;Selalu+siap+untuk+belajar+hal+baru!+🚀" alt="Animasi teks berjalan" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=FF69B4&center=true&vCenter=true&width=600&lines=Mahasiswi+yang+sedang+belajar+Pemrograman;Hobi+Hiking+dan+Jelajah+Alam;Fokus+belajar+Java%2C+SQL%2C+dan+Computer+Graphics;Selalu+siap+untuk+belajar+hal+baru!+🚀" alt="Animasi teks berjalan" />
 </p>
+
 
 ---
 
