@@ -15,3 +15,10 @@ Hobi saya adalah menyanyi ⛰️.
 
 ### 📫 Hubungi Saya
 - Email: gendhisirma@gmail.com
+
+|  No | Tanggal   | Praktikum ke-    | Topik   | Laporan   | Repo  |
+| ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
+| 1 |   | 1  |   |   |   |
+| 2 |   | 2  |   |   |   |
+| 3 |   | 3  |   |   |   |
+| 4 |   | 4  |   |   |   |
