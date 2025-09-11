@@ -18,7 +18,7 @@ Hobi saya adalah menyanyi ⛰️.
 
 |  No | Tanggal   | Praktikum ke-    | Topik   | Laporan   | Repo  |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
-| 1 | 3 September 2025 | 1  | Pengenalan Mobile Programming dan Setup Lingkungan | [Laporan Modul 1](https://drive.google.com/file/d/1wjGtHZOnoazDsbggk8mOKMnupyeVaWYs/view?usp=drive_link "Laporan Modul 1")  |   |
+| 1 | 3 September 2025 | 1  | Pengenalan Mobile Programming dan Setup Lingkungan | [[Laporan Modul 1](htthttps://drive.google.com/file/d/1NhR0cJUMtyrkgCcHGHzilJlHG3JqyBCK/view?usp=sharingp:// "Laporan Modul 1")](https://drive.google.com/file/d/1wjGtHZOnoazDsbggk8mOKMnupyeVaWYs/view?usp=drive_link "Laporan Modul 1")  |   |
 | 2 | 3 September 2025 | 2  | Widget Row dan Column  |   |   |
 | 3 |   | 3  | Pengaturan Layout Row dan Column di Flutter  |   |    |
 | 4 |   | 4  | Widget Flexible dan Expanded   |   |  |
