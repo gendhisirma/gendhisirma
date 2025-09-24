@@ -24,5 +24,5 @@ Hobi saya adalah menyanyi ⛰️.
 | 4 | 10 September 2025  | 2 | Widget Flexible dan Expanded   |[Laporan Modul 4](https://drive.google.com/file/d/12fxlTpyst3uwckPbWKg0PERDQRoYoayd/view?usp=sharing "Laporan Modul 4") | [Template Laporan](https://docs.google.com/document/d/1wie0WZLUFwCLTRCIop5fmH-7mAGyVkCN/edit "Template Laporan")|
 | 5 | 17 September 2025  | 3 | Widget SizedBox, Spacer, dan Card | | [Template Laporan](https://docs.google.com/document/d/1wie0WZLUFwCLTRCIop5fmH-7mAGyVkCN/edit "Template Laporan")|
 | 6 | 17 September 2025  | 3 | Widget GridView, ListView, GridView.builder, dan ListView.builder  | | [Template Laporan](https://docs.google.com/document/d/1wie0WZLUFwCLTRCIop5fmH-7mAGyVkCN/edit "Template Laporan")|
-| 7 | 24 September 2025  | 4 |   | | [Template Laporan](https://docs.google.com/document/d/1wie0WZLUFwCLTRCIop5fmH-7mAGyVkCN/edit "Template Laporan")|
-| 8 | 24 September 2025  | 4 |   | | [Template Laporan](https://docs.google.com/document/d/1wie0WZLUFwCLTRCIop5fmH-7mAGyVkCN/edit "Template Laporan")|
+| 7 | 24 September 2025  | 4 | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route  | | [Template Laporan](https://docs.google.com/document/d/1wie0WZLUFwCLTRCIop5fmH-7mAGyVkCN/edit "Template Laporan")|
+| 8 | 24 September 2025  | 4 | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route  | | [Template Laporan](https://docs.google.com/document/d/1wie0WZLUFwCLTRCIop5fmH-7mAGyVkCN/edit "Template Laporan")|
