@@ -29,4 +29,4 @@ Hobi saya adalah menyanyi ⛰️.
 | 9 | 1 Oktober 2025  | 5 | Stateful Widget  |[Laporan Modul 9](https://drive.google.com/file/d/1yHykKVcDpWzxlE9nE_ZnOiHmobSi0x27/view?usp=drive_link "Laporan Modul 9")  | [Template Laporan](https://docs.google.com/document/d/1wie0WZLUFwCLTRCIop5fmH-7mAGyVkCN/edit "Template Laporan")|
 | 10 | 8 Oktober 2025  | 6 | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter  |[Laporan Modul 10](https://drive.google.com/file/d/10URcey9BMVkl6wJz5mDEzttAnChDoqoB/view?usp=sharing "Laporan Modul 10")  | [Template Laporan](https://docs.google.com/document/d/1wie0WZLUFwCLTRCIop5fmH-7mAGyVkCN/edit "Template Laporan")|
 | 11 | 15 Oktober 2025  |  |   | | [Template Laporan](https://docs.google.com/document/d/1wie0WZLUFwCLTRCIop5fmH-7mAGyVkCN/edit "Template Laporan")|
-| 12 | 22 Oktober 2025  |  | S |  | [Template Laporan](https://docs.google.com/document/d/1wie0WZLUFwCLTRCIop5fmH-7mAGyVkCN/edit "Template Laporan")|
+| 12 | 22 Oktober 2025  |  |  |  | [Template Laporan](https://docs.google.com/document/d/1wie0WZLUFwCLTRCIop5fmH-7mAGyVkCN/edit "Template Laporan")|
